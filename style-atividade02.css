@@ -13,12 +13,9 @@ body h2 {
     text-align: left;
 }
 
-body h3 {
+body p {
+    font-size: 22px;
     margin: 20px 200px;
     color: white;
     text-align: left;
 } 
-
-body footer {
-    color: white;
-}
